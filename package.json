@@ -1,0 +1,30 @@
+{
+  "name": "automatr",
+  "version": "1.0.0",
+  "description": "A cool automation tool for greuling tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "automatr": "bin/automatr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finngreiter/automatr.git"
+  },
+  "keywords": [
+    "automation",
+    "auto",
+    "lightweight"
+  ],
+  "author": "Finn Greiter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finngreiter/automatr/issues"
+  },
+  "homepage": "https://github.com/finngreiter/automatr#readme",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
+}
